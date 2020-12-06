@@ -1,0 +1,15 @@
+www.hardware.info
+api.hardware.info
+autodiscover.hardware.info
+be.hardware.info
+beta.hardware.info
+be.beta.hardware.info
+content.beta.hardware.info
+de.beta.hardware.info
+nl.beta.hardware.info
+uk.beta.hardware.info
+us.beta.hardware.info
+de.hardware.info
+nl.hardware.info
+uk.hardware.info
+us.hardware.info

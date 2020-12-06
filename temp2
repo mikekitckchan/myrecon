@@ -1,0 +1,2749 @@
+{
+    "current_processed_count": 154,
+    "domains": [
+        "nl.hardware.info",
+        "hardware.info"
+    ],
+    "index_of_processors": [],
+    "processed": [
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": "directory",
+                "url": {
+                    "address": "https://hardware.info",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/add/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/add/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/add/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/bewerken%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/bewerken%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/bewerken%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": "directory",
+                "url": {
+                    "address": "http://hardware.info/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/clone%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/clone%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/clone%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/add%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/add%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/add%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/bewerken/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/bewerken/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/bewerken/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/disqualify%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/disqualify%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/disqualify%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/export/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/export/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/export/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/edit/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/edit/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/edit/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/hwi4_",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/hwi4_ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/hwi4_",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/imagecollection/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/imagecollection/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/imagecollection/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/importeren%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/importeren%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/importeren%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/delete/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/delete/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/delete/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/delete%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/delete%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/delete%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/imagecollection%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/imagecollection%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/imagecollection%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/export%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/export%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/export%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/edit%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/edit%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/edit%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/disqualify/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/disqualify/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/disqualify/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/clone/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/clone/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/clone/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/moveleft%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/moveleft%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveleft%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/importeren/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/importeren/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/importeren/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/rapporteer-auteur/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/rapporteer-auteur/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/rapporteer-auteur/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/moveleft/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/moveleft/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveleft/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/moveright/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/moveright/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveright/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/moveright%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/moveright%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveright%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/report%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/report%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/report%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/new%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/new%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/new%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/redirect-crew/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/redirect-crew/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/redirect-crew/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/new/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/new/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/new/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/report/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/report/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/report/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/softdelete%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/softdelete%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/softdelete%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/sort-spec%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/sort-spec%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort-spec%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/sort-spec/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/sort-spec/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort-spec/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/sort/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/sort/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/sort%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/sort%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/softdelete/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/softdelete/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/softdelete/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/swap%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/swap%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/swap%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/swap/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/swap/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/swap/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": "directory",
+                "url": {
+                    "address": "https://nl.hardware.info/",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/ \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/toevoegen%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/toevoegen%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/toevoegen%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/toevoegen/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/toevoegen/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/toevoegen/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/upload%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/upload%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/upload%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/verwijderen%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/verwijderen%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/verwijderen%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/upload/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/upload/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/upload/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/verwijderen/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/verwijderen/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/verwijderen/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/aanbieding/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/aanbieding/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/aanbieding/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/profiel/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/profiel/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/profiel/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/vergelijking/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/vergelijking/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/vergelijking/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/award/download/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/award/download/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/award/download/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/admin/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/admin/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/admin/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/userbox/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/userbox/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/userbox/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/cashbacks-kortingscodes/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/cashbacks-kortingscodes/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/cashbacks-kortingscodes/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/comments",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/comments \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/comments",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/community/reacties/laatste",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/community/reacties/laatste \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/community/reacties/laatste",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/nieuws/rapporteer-auteur/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/nieuws/rapporteer-auteur/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/nieuws/rapporteer-auteur/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/grafiek/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/grafiek/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/grafiek/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/productvergelijker/zoeken",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/productvergelijker/zoeken \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/productvergelijker/zoeken",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/nieuws/tip",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/nieuws/tip \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/nieuws/tip",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/nieuwsbrief",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/nieuwsbrief \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/nieuwsbrief",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/menu.png",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/menu.png \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/menu.png",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/prijswekker",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/prijswekker \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/prijswekker",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/vergelijkingen",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/vergelijkingen \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/vergelijkingen",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/zoeken",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/zoeken \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/zoeken",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/wensenlijsten",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/wensenlijsten \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/wensenlijsten",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/wensenlijst/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/wensenlijst/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/wensenlijst/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 2,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/%2A/add/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/%2A/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/add/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/add/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/add/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/survey",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/survey \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/survey",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/moveleft%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/moveleft%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveleft%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/bewerken/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/bewerken/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/bewerken/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/edit/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/edit/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/edit/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/moveleft/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/moveleft/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveleft/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/bewerken%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/bewerken%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/bewerken%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/imagecollection%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/imagecollection%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/imagecollection%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/hwi4_",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/hwi4_ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/hwi4_",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/imagecollection/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/imagecollection/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/imagecollection/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/add%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/add%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/add%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/export/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/export/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/export/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/export%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/export%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/export%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/moveright/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/moveright/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveright/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/moveright%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/moveright%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/moveright%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/report%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/report%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/report%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/clone%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/clone%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/clone%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/delete/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/delete/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/delete/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/disqualify/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/disqualify/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/disqualify/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/delete%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/delete%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/delete%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/disqualify%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/disqualify%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/disqualify%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/sort-spec%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/sort-spec%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort-spec%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/redirect-crew/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/redirect-crew/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/redirect-crew/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/report/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/report/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/report/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/importeren%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/importeren%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/importeren%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/new%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/new%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/new%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/clone/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/clone/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/clone/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/edit%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/edit%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/edit%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/new/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/new/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/new/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/softdelete%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/softdelete%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/softdelete%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/rapporteer-auteur/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/rapporteer-auteur/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/rapporteer-auteur/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/sort/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/sort/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/sort-spec/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/sort-spec/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort-spec/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/sort%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/sort%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/sort%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/toevoegen%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/toevoegen%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/toevoegen%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/importeren/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/importeren/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/importeren/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 2,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/award/download/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/award/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/award/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/softdelete/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/softdelete/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/softdelete/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/swap/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/swap/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/swap/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/swap%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/swap%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/swap%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/aanbieding/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/aanbieding/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/aanbieding/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/verwijderen%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/verwijderen%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/verwijderen%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/profiel/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/profiel/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/profiel/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/verwijderen/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/verwijderen/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/verwijderen/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/upload/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/upload/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/upload/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/upload%24",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/upload%24 \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/upload%24",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/toevoegen/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/toevoegen/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/toevoegen/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/award/download/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/award/download/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/award/download/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/vergelijking/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/vergelijking/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/vergelijking/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/admin/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/admin/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/admin/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/userbox/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/userbox/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/userbox",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/cashbacks-kortingscodes/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/cashbacks-kortingscodes/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/cashbacks-kortingscodes",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 2,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/community/reacties/laatste",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/community/reacties/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/community/reacties/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 2,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/community/reacties/laatste",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/community/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/community/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/comments",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/comments \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/comments",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/community/reacties/laatste",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/community/reacties/laatste \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/community/reacties/laatste",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 2,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/productvergelijker/zoeken",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/productvergelijker/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/productvergelijker/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/nieuws/rapporteer-auteur/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/nieuws/rapporteer-auteur/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/nieuws/rapporteer-auteur/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 2,
+                "exists": null,
+                "flags": [
+                    "301",
+                    "redirect"
+                ],
+                "type": null,
+                "url": {
+                    "address": "http://hardware.info/nieuws/rapporteer-auteur/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[301]\u001b[39m\u001b[49m http://hardware.info/nieuws/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/nieuws/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 301
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/grafiek/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/grafiek/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/grafiek/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/nieuws/tip",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/nieuws/tip \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/nieuws/tip",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/productvergelijker/zoeken",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/productvergelijker/zoeken \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/productvergelijker/zoeken",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/nieuwsbrief",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/nieuwsbrief \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/nieuwsbrief",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/menu.png",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/menu.png \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/menu.png",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/prijswekker",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/prijswekker \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/prijswekker",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/vergelijkingen",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/vergelijkingen \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/vergelijkingen",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/zoeken",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/zoeken \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/zoeken",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/wensenlijst/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/wensenlijst/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/wensenlijst/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/wensenlijsten",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/wensenlijsten \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://nl.hardware.info/wensenlijsten",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/community/reacties/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/community/reacties/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/community/reacties/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/award/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/award/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/award/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/%2A/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/%2A/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/%2A/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/community/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/community/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/community/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/survey",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/survey \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/survey",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/productvergelijker/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/productvergelijker/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/productvergelijker/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 2,
+                "exists": null,
+                "flags": [
+                    "redirect",
+                    "302"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://hardware.info/nieuws/rapporteer-auteur/",
+                    "domain": "hardware.info"
+                }
+            },
+            "line": "\u001b[94m[302]\u001b[39m\u001b[49m https://hardware.info/nieuws/ \u001b[93m (Redirect)\u001b[39m\u001b[49m\u001b[34m\n    Redirect to: \u001b[39m\u001b[49mhttps://hardware.info/nieuws/",
+            "processor_class": "ProcessRedirect",
+            "status_code": 302
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/zoeken",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/zoeken \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/nieuwsbrief",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/nieuwsbrief \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/cashbacks-kortingscodes",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/cashbacks-kortingscodes \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/vergelijkingen",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/vergelijkingen \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/wensenlijsten",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/wensenlijsten \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/nieuws/tip",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/nieuws/tip \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/menu.png",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/menu.png \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 3,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/userbox",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/userbox \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        },
+        {
+            "crawler_url": {
+                "depth": 1,
+                "exists": null,
+                "flags": [
+                    "200",
+                    "generic"
+                ],
+                "type": null,
+                "url": {
+                    "address": "https://nl.hardware.info/nieuws/index.php",
+                    "domain": "nl.hardware.info"
+                }
+            },
+            "line": "\u001b[92m[200]\u001b[39m\u001b[49m https://nl.hardware.info/nieuws/ \u001b[93m (Generic)\u001b[39m\u001b[49m\u001b[34m\n    Index file found: \u001b[39m\u001b[49mindex.php",
+            "processor_class": "GenericProcessor",
+            "status_code": 200
+        }
+    ],
+    "processing": [],
+    "urls_infos": [],
+    "version": "0.7.0"
+}

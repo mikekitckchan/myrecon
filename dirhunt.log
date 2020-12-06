@@ -1,0 +1,41 @@
+Welcome to Dirhunt v0.7.0 using Python 3.6.3
+Starting...
+[ERROR] http://yv3-sf.smule.com/ (HTTPConnectionPool(host='yv3-sf.smule.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connTraceback (most recent call last):
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/dirhunt/utils.py", line 64, in wrap
+    return fn(*args, **kwargs)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/dirhunt/crawler.py", line 159, in print_results
+    result = self.results.get(timeout=.5)
+  File "/Users/mikechan/anaconda3/lib/python3.6/queue.py", line 173, in get
+    self.not_empty.wait(remaining)
+  File "/Users/mikechan/anaconda3/lib/python3.6/threading.py", line 299, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikechan/tools/myrecon/bin/dirhunt", line 8, in <module>
+    sys.exit(main())
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/dirhunt/management.py", line 185, in main
+    catch(hunt)()
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/dirhunt/exceptions.py", line 37, in wrap
+    fn(*args, **kwargs)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/click/core.py", line 829, in __call__
+    return self.main(*args, **kwargs)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/click/core.py", line 782, in main
+    rv = self.invoke(ctx)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/dirhunt/management.py", line 162, in hunt
+    (set(exclude_flags), set(include_flags))
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/dirhunt/utils.py", line 66, in wrap
+    return confirm_choices_close(choices, default_choice)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/dirhunt/utils.py", line 42, in confirm_choices_close
+    Fore.LIGHTRED_EX), default=default_choice, show_default=False)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/click/termui.py", line 147, in prompt
+    value = prompt_func(prompt)
+  File "/Users/mikechan/tools/myrecon/lib/python3.6/site-packages/click/termui.py", line 129, in prompt_func
+    return f("")
+OSError: [Errno 5] Input/output error
